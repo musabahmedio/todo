@@ -1,0 +1,33 @@
+.btn {
+  border: none;
+  background: transparent;
+  padding-bottom: 1rem;
+}
+
+.box {
+  width: 100%;
+  height: 600vh;
+}
+
+.box .btn {
+  text-align: end;
+  align-items: end;
+}
+
+.h1 {
+  text-align: center;
+  align-items: center;
+  animation: alternate-reverse;
+  color: brown;
+}
+body {
+  background: coral;
+}
+
+.pose {
+  position: absolute;
+  /* right: 40px; */
+  left: 870px;
+  border: none;
+  background: transparent;
+}
